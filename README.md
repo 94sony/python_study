@@ -36,7 +36,9 @@
 
 </br>
 
-![image](https://user-images.githubusercontent.com/110883172/203780313-a045addd-f139-44e4-93cc-cbc12d5475b3.png)
+[certificate_A20221201-585869.pdf](https://github.com/94sony/python_study/files/10131559/certificate_A20221201-585869.pdf)
+
+
 </br>
 
 ### 2. 파이썬 자료구조
