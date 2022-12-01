@@ -36,10 +36,11 @@
 
 </br>
 
-[certificate_A20221201-585869.pdf](https://github.com/94sony/python_study/files/10131559/certificate_A20221201-585869.pdf)
 
+![Screenshot from 2022-12-01 19-40-31](https://user-images.githubusercontent.com/117059969/205032138-3ed11424-a3d5-4bac-bb5b-bef4da70b4d3.png)
 
 </br>
+
 
 ### 2. 파이썬 자료구조
 
